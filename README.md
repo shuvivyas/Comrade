@@ -1,1 +1,1 @@
-# LED-blink-pattern
+# Comrade
